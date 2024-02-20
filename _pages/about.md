@@ -8,7 +8,9 @@ redirect_from:
 ---
 
 Brain, Behavior, & Cognition
+
 Department of Psychology
+
 Northwestern University
 
 Education: The University of Texas at Dallas, Bachelor of Science in Psychology (Honors)
