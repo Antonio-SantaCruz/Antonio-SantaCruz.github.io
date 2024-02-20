@@ -17,9 +17,13 @@ Education: The University of Texas at Dallas, Bachelor of Science in Psychology 
 Research interests
 ======
 -Explicit & Implicit memory
+
 -Motor skill learning
+
 -Flow states
+
 -Consciousness
+
 -Mental imagery (hyperphantasia & aphantasia)
 
 
