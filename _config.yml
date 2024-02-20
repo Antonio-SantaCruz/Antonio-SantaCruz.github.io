@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Antonio's Homepage"
 title_separator          : "-"
-name                     : &name "Antonio Santa Cruz"
+name                     : &name "Antonio Paolo Santa Cruz"
 description              : &description "Muscle Memory Researcher"
 url                      : https://antonio-santacruz.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,10 +22,10 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "IMG_9260.png"
-  name             : "Antonio Santa Cruz"
+  name             : "Antonio Paolo Santa Cruz"
   pronouns         : # example: "she/her"  
   bio              : "Muscle Memory Researcher"
-  location         : "Chicago"
+  location         : "Chicago, IL"
   employer         : "Northwestern University"
   uri              : # URL
   email            : "antoniosantacruz2026@u.northwestern.edu" 
@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : https://www.linkedin.com/in/antonio-santa-cruz-a604ba1a8/
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
