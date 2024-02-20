@@ -7,11 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Brain, Behavior, & Cognition
-
-Department of Psychology
-
 Northwestern University
+
+Department of Psychology: Brain, Behavior, & Cognition PhD student
 
 Education: The University of Texas at Dallas, Bachelor of Science in Psychology (Honors)
 
