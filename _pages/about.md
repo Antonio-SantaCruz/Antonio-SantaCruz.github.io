@@ -18,6 +18,7 @@ Research interests
 ======
 
 🚧WEBSITE UNDER CONSTRUCTION🚧: COME BACK SOON PLEASE!
+For a more recent work log, check out my ReberLab page: https://www.reberlab.psych.northwestern.edu/people/antonio-santa-cruz/
 
 
 🧠Explicit & Implicit memory
