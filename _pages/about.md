@@ -16,6 +16,10 @@ Education: The University of Texas at Dallas, Bachelor of Science in Psychology 
 
 Research interests
 ======
+
+🚧WEBSITE UNDER CONSTRUCTION🚧: COME BACK SOON PLEASE!
+
+
 🧠Explicit & Implicit memory
 
 🚲Motor skill learning
